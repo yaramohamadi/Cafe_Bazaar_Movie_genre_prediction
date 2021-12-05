@@ -3,4 +3,4 @@ Movie Genre Prediction given a real dataset of Persian descriptions, tabular inf
 
 My model looks something like this:
 
-<img src="model.jpg" width="500"/>
+<img src="model.jpg.png" width="500"/>
